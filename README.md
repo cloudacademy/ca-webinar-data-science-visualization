@@ -40,9 +40,5 @@ and then clone the following repository:
 !git clone https://github.com/cloudacademy/ca-webinar-data-science-visualization.git
 ```
 
-### 4. Let's get our hands dirty
-Just run the following snippet to put the raw data into a `pandas` dataframe:
-```python
-import pandas as pd
-df = pd.read_csv('/content/drive/My Drive/<PATH_TO_FILE>/<FILENAME>.csv')
-```
+### 4. Open the template .ipynb file and let's get our hands dirty
+Now, you have to navigate inside the Google Drive folder where the repo has been cloned. Once there, you just need to open, say, the file `'DS Webinars] Data Visualization - Students Copy.ipynb'` with Google Colab. And that's it! :smile:
